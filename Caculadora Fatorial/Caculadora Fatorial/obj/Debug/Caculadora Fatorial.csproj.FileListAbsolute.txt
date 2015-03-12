@@ -1,0 +1,9 @@
+C:\Users\seeduc\Desktop\Calculadora de Fatorial\Caculadora Fatorial\Caculadora Fatorial\bin\Debug\Caculadora Fatorial.exe.config
+C:\Users\seeduc\Desktop\Calculadora de Fatorial\Caculadora Fatorial\Caculadora Fatorial\obj\Debug\Caculadora Fatorial.csprojResolveAssemblyReference.cache
+C:\Users\seeduc\Desktop\Calculadora de Fatorial\Caculadora Fatorial\Caculadora Fatorial\obj\Debug\Caculadora_Fatorial.Form1.resources
+C:\Users\seeduc\Desktop\Calculadora de Fatorial\Caculadora Fatorial\Caculadora Fatorial\obj\Debug\Caculadora_Fatorial.Properties.Resources.resources
+C:\Users\seeduc\Desktop\Calculadora de Fatorial\Caculadora Fatorial\Caculadora Fatorial\obj\Debug\Caculadora Fatorial.csproj.GenerateResource.Cache
+C:\Users\seeduc\Desktop\Calculadora de Fatorial\Caculadora Fatorial\Caculadora Fatorial\bin\Debug\Caculadora Fatorial.exe
+C:\Users\seeduc\Desktop\Calculadora de Fatorial\Caculadora Fatorial\Caculadora Fatorial\bin\Debug\Caculadora Fatorial.pdb
+C:\Users\seeduc\Desktop\Calculadora de Fatorial\Caculadora Fatorial\Caculadora Fatorial\obj\Debug\Caculadora Fatorial.exe
+C:\Users\seeduc\Desktop\Calculadora de Fatorial\Caculadora Fatorial\Caculadora Fatorial\obj\Debug\Caculadora Fatorial.pdb
